@@ -19,3 +19,9 @@ Technology Used
 - Programming Language: Python
 - Algorithm: Merge Sort
 - Strategy: Divide and Conquer
+
+Advantages
+
+- Efficient for sorting large lists.
+- Follows a simple Divide and Conquer approach.
+- Time complexity is O(n log n).
